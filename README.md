@@ -13,8 +13,6 @@ git clone https://github.com/lucasspeixoto/react-daisyui-config.git
 ## Instale as dependências
 
 ```bash
-cd react-daisyui-config
-
 # entre na pasta
 cd react-daisyui-config
 
