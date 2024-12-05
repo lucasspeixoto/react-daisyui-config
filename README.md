@@ -10,7 +10,7 @@ Clone o repositório
 git clone https://github.com/lucasspeixoto/react-daisyui-config.git
 ```
 
-## Instale as dependências
+## Execute
 
 ```bash
 # entre na pasta
